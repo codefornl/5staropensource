@@ -20,10 +20,10 @@ Vergelijkbaar met 5 star open data (http://5stardata.info/en/), maar dan voor op
 
 ---
 
-Check ook https://12factor.net/
+12 factor app: https://12factor.net/
 
-En http://semver.org/
+Semantic versioning: http://semver.org/
 
-En https://www.atlassian.com/git/tutorials/comparing-workflows
+Gitflow: https://www.atlassian.com/git/tutorials/comparing-workflows
 
-   http://nvie.com/posts/a-successful-git-branching-model/
+Gitflow: http://nvie.com/posts/a-successful-git-branching-model/
