@@ -1,4 +1,4 @@
-# 5staropensource
+# 5 star open source v0.1 (te bespreken op de Code for NL / ICTU meetup)
 Vergelijkbaar met 5 star open data (http://5stardata.info/en/), maar dan voor open source:
 
 1. make your code available on the Web under an open license (e.g. CC0)
