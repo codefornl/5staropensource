@@ -15,7 +15,7 @@ Vergelijkbaar met 5 star open data (http://5stardata.info/en/), maar dan voor op
 
 - make it available as a one-click installable
 - make it available as a runnable container
-- make it available "as a service"
+- make it available "as a service" (also during development)
 
 ---
 
