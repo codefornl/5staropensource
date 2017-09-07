@@ -21,6 +21,8 @@ Vergelijkbaar met 5 star open data (http://5stardata.info/en/), maar dan voor op
 ---
 
 Check ook https://12factor.net/
+
 En http://semver.org/
+
 En https://www.atlassian.com/git/tutorials/comparing-workflows
    http://nvie.com/posts/a-successful-git-branching-model/
