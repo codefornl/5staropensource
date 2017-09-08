@@ -14,6 +14,8 @@ Vergelijkbaar met 5 star open data (http://5stardata.info/en/), maar dan voor op
 
 ---
 
+Idee: is dit misschien meer een aanzet voor de "5 star open platform"?
+
 - make it available as a one-click installable
 - make it available as a runnable container
 - make it available "as a service" (also during development)
