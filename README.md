@@ -6,6 +6,10 @@ Gebaseerd op "5 star open data" (http://5stardata.info/en/):
 
 Based on "5 star open data" (http://5stardata.info/en/):
 
+Also check out: https://github.com/codefornl/open-source-policy
+
+Check ook https://github.com/codefornl/open-source-policy
+
 ### 5 star open source
 
 1. make your code available on the Web under an open license (e.g. CC0)
