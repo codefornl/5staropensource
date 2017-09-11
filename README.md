@@ -1,6 +1,12 @@
 # 5 star open source v0.1
 ### Te bespreken op de Code for NL / ICTU meetup
-Vergelijkbaar met 5 star open data (http://5stardata.info/en/), maar dan voor open source:
+### Will be discussed at the Code for NL / ICTU meetup
+
+Gebaseerd op "5 star open data" (http://5stardata.info/en/):
+
+Based on "5 star open data" (http://5stardata.info/en/):
+
+### 5 star open source
 
 1. make your code available on the Web under an open license (e.g. CC0)
 
@@ -14,7 +20,7 @@ Vergelijkbaar met 5 star open data (http://5stardata.info/en/), maar dan voor op
 
 ---
 
-Idee: is dit misschien meer een aanzet voor de "5 star open platform"?
+### "open platform"?
 
 - make it available as a one-click installable
 - make it available as a runnable container
