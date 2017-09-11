@@ -35,3 +35,7 @@ Semantic versioning: http://semver.org/
 Gitflow: https://www.atlassian.com/git/tutorials/comparing-workflows
 
 Gitflow: http://nvie.com/posts/a-successful-git-branching-model/
+
+Creative Commons: https://creativecommons.org/
+
+Choose a License: https://choosealicense.com/
