@@ -24,6 +24,32 @@ Check ook https://github.com/codefornl/open-source-policy
 
 ---
 
+### what else?
+
+a. open source, but hidden / unfindable
+
+b. open source, but out-dated
+
+c. open source, but unreadable
+
+d. open source, but erroneous
+
+e. open source, but undefined use-case
+
+f. open source, but not tested
+
+g. open source, but one of many options
+
+h. open source, but not reviewed
+
+i. open source, but no-one to contact
+
+j. open source, but bad code
+
+k. open source, but undocumented
+
+---
+
 ### "open platform"?
 
 - make it available as a one-click installable
